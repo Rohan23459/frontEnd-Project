@@ -7,6 +7,7 @@ import Card from './components/card'
 
 function App() {
   const [count, setCount] = useState(0)
+  console.log(123);
   let myArr = [1,3,7];
   let myObject = {
       userName : "Rohan Vishwas",
